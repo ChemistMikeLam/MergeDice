@@ -8,6 +8,7 @@
 # Scala files  
 *.class 
 *.log 
+*.tasty 
 #
 # JVM crash logs 
 /scala-ver/**/hs_err_pid* 
