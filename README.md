@@ -41,9 +41,9 @@ Like I said above, this project will use Scala3 and the tagless final pattern.
 
 This project will have at least 4 parts: 
 - data: For data classes representing basic sata, e.g. game state 
-- algebra: Tagless final algebra traits 
-- interpreter: Tagless final interpreters 
+- random: Classes that concerns the generation of random numbers 
 - ui: User interface 
+- game: Overall game logic 
 
 ## Contributing 
 
