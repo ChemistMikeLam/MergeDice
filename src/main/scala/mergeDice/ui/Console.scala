@@ -1,4 +1,4 @@
-package mergeDice.core
+package mergeDice.ui
 
 trait Console[F[_]] {
 
